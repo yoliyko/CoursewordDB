@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DB\\kursovaBD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|e:\\db\\kursovabd2\\kursovabd2\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|solutionrelative:kursovabd2\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|E:\\DB\\kursovaBD2\\kursovabd2\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|solutionrelative:kursovabd2\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|E:\\DB\\kursovaBD2\\kursovabd2\\addinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|solutionrelative:kursovabd2\\addinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|E:\\DB\\kursovaBD2\\kursovabd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|solutionrelative:kursovabd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|E:\\DB\\kursovaBD2\\kursovabd2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|solutionrelative:kursovabd2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|E:\\DB\\kursovaBD2\\kursovabd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|solutionrelative:kursovabd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|E:\\DB\\kursovaBD2\\kursovabd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E38EC94E-675B-4AD7-A459-98F14CB4C8F0}|kursovaBD2\\kursovaBD2.csproj|solutionrelative:kursovabd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCustomer.cs",
+              "DocumentMoniker": "E:\\DB\\kursovaBD2\\kursovaBD2\\AddCustomer.cs",
+              "RelativeDocumentMoniker": "kursovaBD2\\AddCustomer.cs",
+              "ToolTip": "E:\\DB\\kursovaBD2\\kursovaBD2\\AddCustomer.cs",
+              "RelativeToolTip": "kursovaBD2\\AddCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:21:15.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\kursovaBD2\\kursovaBD2\\AddCustomer.cs",
+              "RelativeDocumentMoniker": "kursovaBD2\\AddCustomer.cs",
+              "ToolTip": "E:\\DB\\kursovaBD2\\kursovaBD2\\AddCustomer.cs [Design]",
+              "RelativeToolTip": "kursovaBD2\\AddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:13:29.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddInventory.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\kursovaBD2\\kursovaBD2\\AddInventory.cs",
+              "RelativeDocumentMoniker": "kursovaBD2\\AddInventory.cs",
+              "ToolTip": "E:\\DB\\kursovaBD2\\kursovaBD2\\AddInventory.cs [Design]",
+              "RelativeToolTip": "kursovaBD2\\AddInventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:27:25.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\DB\\kursovaBD2\\kursovaBD2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "kursovaBD2\\Form1.Designer.cs",
+              "ToolTip": "E:\\DB\\kursovaBD2\\kursovaBD2\\Form1.Designer.cs",
+              "RelativeToolTip": "kursovaBD2\\Form1.Designer.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAEwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:55:04.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DB\\kursovaBD2\\kursovaBD2\\Program.cs",
+              "RelativeDocumentMoniker": "kursovaBD2\\Program.cs",
+              "ToolTip": "E:\\DB\\kursovaBD2\\kursovaBD2\\Program.cs",
+              "RelativeToolTip": "kursovaBD2\\Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAxwGAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:45:56.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DB\\kursovaBD2\\kursovaBD2\\Form1.cs",
+              "RelativeDocumentMoniker": "kursovaBD2\\Form1.cs",
+              "ToolTip": "E:\\DB\\kursovaBD2\\kursovaBD2\\Form1.cs",
+              "RelativeToolTip": "kursovaBD2\\Form1.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAuwFUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:18:43.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\kursovaBD2\\kursovaBD2\\Form1.cs",
+              "RelativeDocumentMoniker": "kursovaBD2\\Form1.cs",
+              "ToolTip": "G:\\DB\\kursovaBD2\\kursovaBD2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:40:18.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
